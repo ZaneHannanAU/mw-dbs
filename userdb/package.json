@@ -1,0 +1,12 @@
+{
+  "name": "mw-user-db",
+  "private": true,
+  "version": "0.0.0",
+  "license": "(ISC OR GPL-3.0)",
+  "description": "A demonstration master-worker database for users.",
+  "main": "udb.js",
+  "optionalDependencies": {
+    "bcrypt": "^1.0.3",
+    "bcryptjs": "^2.4.3"
+  }
+}
